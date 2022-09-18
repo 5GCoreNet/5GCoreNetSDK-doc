@@ -1,0 +1,24 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "5GCoreNetSDK"
+theme = "kube"
+description = "5GCoreNetSDK Documentation"
+Paginate = 4
+[Params]
+  author = "5GCoreNetSDK"
+  authorURL = "https://5gcorenetsdk.github.io/"
+  github = "https://github.com/5GCoreNet/5GCoreNetSDK"
+
+
+[[menu.main]]
+    name = "Docs"
+    weight = -100
+    url = "/docs/"
+[[menu.main]]
+    name = "Blog"
+    weight = -100
+    url = "/blog/"
+[[menu.main]]
+    name = "Faq"
+    weight = -100
+    url = "/faq/"
